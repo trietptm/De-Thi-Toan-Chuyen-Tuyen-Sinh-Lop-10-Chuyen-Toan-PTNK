@@ -14,7 +14,7 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://user-images.githubusercontent.com/526959/217499451-68bd2948-7757-4179-85f8-653141778e99.png)
 
 ## 2003:
-![image](https://user-images.githubusercontent.com/526959/217484019-f0e935c9-c80b-4444-a4df-8c1a6a26b85c.png)
+![image](https://user-images.githubusercontent.com/526959/224605972-ea836e0f-4581-4958-8155-b7f75ec88c55.png)
 
 ## 2002:
 ![image](https://user-images.githubusercontent.com/526959/224597862-78b46466-265f-4b97-a711-576de01e2942.png)
