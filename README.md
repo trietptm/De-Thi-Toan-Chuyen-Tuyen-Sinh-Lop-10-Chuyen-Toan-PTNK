@@ -105,17 +105,24 @@
 
 ![image](https://user-images.githubusercontent.com/526959/224281634-2e5685cf-d5c2-44d6-9f73-77ab8a932a94.png)
 
-## 1997:
+## 1998-1999:
+
+## 1997-1998:
 ![image](https://user-images.githubusercontent.com/526959/224253797-95b917d9-997f-4854-9234-9bb966c40f35.png)
 
 ![image](https://user-images.githubusercontent.com/526959/224255047-816c7274-d8e1-4987-8e8e-95171246f8f3.png)
 
-## 1994:
+## 1996-1997:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/5e7d511d-8d2a-4ad3-b1c4-7ebd59e27f52)
+
+## 1995-1996:
+
+## 1994-1995:
 ![image](https://user-images.githubusercontent.com/526959/169195615-e4d5bed7-3d88-4fce-8b7c-b7dda6c9d880.png)
 
 ![image](https://user-images.githubusercontent.com/526959/169195898-f9b3eb0f-323f-4803-a3a6-9639d0549c19.png)
 
-## 1993:
+## 1993-1994:
 ![image](https://user-images.githubusercontent.com/526959/169000957-1fa98d41-cc11-44f4-9c2d-940d74adcca5.png)
 
 
