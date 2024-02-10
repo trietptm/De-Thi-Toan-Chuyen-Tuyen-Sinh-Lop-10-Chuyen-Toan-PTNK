@@ -10,6 +10,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ## 2021-2022:
 
 ## 2020-2021:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/98b65036-a48d-4995-8dee-175ce2aa3d21)
+
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/7b9da419-0f27-4dde-bb58-071ede7b7b95)
 
 ## 2019-2020:
@@ -21,6 +23,8 @@ https://goo.gl/maps/CghSicAvrM6nnYJ8A
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/685ba662-2daa-4625-9ff8-1e54bff867cb)
 
 ## 2018-2019:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/2c041786-dfa7-4a79-9126-c64a46d3f156)
+
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/e30f00ad-822c-4698-a84c-792b61248ee5)
 
 ## 2017-2018:
