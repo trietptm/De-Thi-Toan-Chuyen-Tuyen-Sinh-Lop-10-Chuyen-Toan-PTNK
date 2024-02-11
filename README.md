@@ -6,9 +6,12 @@
 ## 2023-2024:
 
 ## 2022-2023:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/f90c3f7b-5fdf-4638-947a-5246de11255a)
 
 ## 2021-2022:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/bbecf45c-3fcf-47fd-b14e-e91df46451f6)
+
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/30fbb85b-fd35-494f-9f76-2fe803affecd)
 
 ## 2020-2021:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/5d0efa29-dc0f-43b3-b1ec-502d36459f2f)
@@ -64,6 +67,8 @@
 
 ## 2010-2011:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/4c048118-c217-4f9f-b04b-7fdbdf0ea89e)
+
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/1b898a8d-2dcb-4d6a-b07a-9effa0032ea2)
 
 ![image](https://user-images.githubusercontent.com/526959/217499451-68bd2948-7757-4179-85f8-653141778e99.png)
 
