@@ -137,6 +137,40 @@
 ## 1993-1994:
 ![image](https://user-images.githubusercontent.com/526959/169000957-1fa98d41-cc11-44f4-9c2d-940d74adcca5.png)
 
+## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
+* Phương pháp phản chứng
+* Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp quy nạp toán học)
+* Phương pháp chứng minh bằng nguyên lý cực hạn (phương pháp đại lượng cực biên)
+* Nguyên lý Dirichlet
+* Phép chia hết, phép chia có dư, đồng dư thức
+  * Số học và các hằng đẳng thức
+  * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
+* Ước chung lớn nhất, bội chung nhỏ nhất
+* Số nguyên tố, hợp số
+* Số lũy thừa
+* Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
+* Đa thức và ứng dụng
+* Bất đẳng thức và ứng dụng trong đại số, số học
+  * Các phương pháp chứng minh bất đẳng thức
+  * Bất đẳng thức số học
+* Phương trình bậc hai một ẩn số và định lý Viet
+* Hệ phương trình hai ẩn mẫu mực
+  * Hệ phương trình bậc nhất hai ẩn
+  * Hệ phương trình hai ẩn đối xứng loại 1
+  * Hệ phương trình hai ẩn đối xứng loại 2
+  * Hệ phương trình đồng bậc/đẳng cấp. 
+  * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
+* Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
+  * Graph (đồ thị)
+* Cực trị hình học
+* Quỹ tích (tập hợp điểm)
+* Định lý hình học và các phương pháp chứng minh
+  * Hình học tam giác, tứ giác
+  * Đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
+* 
+
+
+
 
 
 
