@@ -147,7 +147,7 @@
   * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
 * Ước chung lớn nhất, bội chung nhỏ nhất
 * Số nguyên tố, hợp số
-* Số lũy thừa
+* Số chính phương, số lập phương, số lũy thừa
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
@@ -160,13 +160,27 @@
   * Hệ phương trình hai ẩn đối xứng loại 2
   * Hệ phương trình đồng bậc/đẳng cấp. 
   * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
+* Hệ phương trình ba ẩn 
+* Hệ phương trình không mẫu mực
+* Bất phương trình và hệ bất phương trình
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
   * Graph (đồ thị)
+  * Cực trị tổ hợp
 * Cực trị hình học
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
-  * Đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
+    * Hệ thức lượng trong tam giác vuông
+    * Tỉ số lượng giác
+  * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
+    * Tiếp tuyến và đường tròn
+  * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
+  * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
+  * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
+  * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
+  * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
+* Các bài toán hình học có nội dung tính toán
+* Hình học tổ hợp
 * 
 
 
