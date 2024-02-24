@@ -128,6 +128,7 @@
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/5e7d511d-8d2a-4ad3-b1c4-7ebd59e27f52)
 
 ## 1995-1996:
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/5d6606c0-346b-4416-b4c1-d11c4b69f678)
 
 ## 1994-1995:
 ![image](https://user-images.githubusercontent.com/526959/169195615-e4d5bed7-3d88-4fce-8b7c-b7dda6c9d880.png)
