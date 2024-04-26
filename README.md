@@ -170,8 +170,16 @@
 ## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
 * Phương pháp phản chứng
 * Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp quy nạp toán học)
+  * Quy nạp toán học trong đại số và bất đẳng thức
+  * Quy nạp toán học trong số học
+  * Quy nạp toán học trong các bài toán trò chơi
+  * Quy nạp toán học trong bài toán đếm
 * Phương pháp chứng minh bằng nguyên lý cực hạn (phương pháp đại lượng cực biên)
 * Nguyên lý Dirichlet
+  * Nguyên lý Dirichlet trong số học
+  * Nguyên lý Dirichlet và các bài toán bất đẳng thức
+  * Nguyên lý Dirichlet trong tổ hợp
+  * Nguyên lý Dirichlet trong hình học
 * Phép chia hết, phép chia có dư, đồng dư thức
   * Số học và các hằng đẳng thức
   * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
@@ -182,8 +190,10 @@
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
+    * Bất đẳng thức AM-GM
   * Bất đẳng thức số học
 * Phương trình bậc hai một ẩn số và định lý Viet
+  * Điều kiện có nghiệm của một phương trình bậc hai
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
@@ -195,7 +205,7 @@
 * Bất phương trình và hệ bất phương trình
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
   * Graph (đồ thị)
-  * Cực trị tổ hợp
+  * Cực trị tổ hợp/tối ưu tổ hợp
 * Cực trị hình học
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
