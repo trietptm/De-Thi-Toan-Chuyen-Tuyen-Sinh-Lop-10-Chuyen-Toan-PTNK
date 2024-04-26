@@ -1,4 +1,11 @@
 
+## CÁC BÀI TOÁN VỀ GIẢI ĐẤU
+* Bài toán về giải đấu là dạng toán "đặc sản" của toán chuyên PTNK. Dạng toán này thú vị vì nó không dùng kiến thức gì cao siêu, đa số chỉ cộng trừ nhân chia thôi. Nhưng đây là dạng toán có sự tổng hợp của số học, đại số và tổ hợp nên nói nếu không quen, bạn sẽ không biết bắt đầu từ đâu, giải như thế nào. Trang xin giới thiệu một tuyển chọn nhỏ của thầy Trần Nam Dũng dành cho các bạn học sinh đang chuẩn bị thi vào các lớp chuyên của PTNK.
+* https://www.facebook.com/HSGVNUHCM/posts/pfbid02ynuP9V7d12H1TGWy9xNExNguCVLPg1A5TK5PX8CdM1gmqEFMih2R2LVMCLXU4iMql
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/4bf1afaa-68ac-4b4b-8aad-83a32c113b76)
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/a4c7fc40-f55b-4f46-b0f0-5d463317e6c4)
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/7c6ef19a-db1d-4ab7-988e-31d150cbecc0)
+
 ## TUYỂN CHỌN MỘT SỐ BÀI TỔ HỢP TRONG CÁC ĐỀ THI TUYỂN SINH 10 VÀ LỜI GIẢI - TRẦN NGUYỄN NAM HƯNG:
 * https://www.facebook.com/HSGVNUHCM/posts/pfbid0dzn9C4V8V5Ev2kcDeF54vSBkQvuXvAyqKkafsRbQbnGV2mwTFrrQbvfTqxk1Z7sol
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/872b8d9f-c0ae-4044-b2df-abbfd4014201)
