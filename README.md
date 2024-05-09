@@ -169,6 +169,7 @@
 
 ## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
 * Phương pháp phản chứng
+  * Sử dụng phản ví dụ nhỏ nhất/lớn nhất
 * Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp/nguyên lí quy nạp toán học)
   * Quy nạp toán học trong đại số và bất đẳng thức
   * Quy nạp toán học trong số học
@@ -232,6 +233,7 @@
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
 * Các bài toán hình học có nội dung tính toán
 * Hình học tổ hợp
+  * Bài toán phủ hình
 * 
 
 
