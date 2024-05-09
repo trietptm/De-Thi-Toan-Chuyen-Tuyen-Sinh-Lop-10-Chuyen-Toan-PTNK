@@ -174,12 +174,12 @@
   * Quy nạp toán học trong số học
   * Quy nạp toán học trong các bài toán trò chơi
   * Quy nạp toán học trong bài toán đếm
-* Phương pháp chứng minh bằng nguyên lý cực hạn (phương pháp đại lượng cực biên), xét trường hợp cực hạn
-* Nguyên lý Dirichlet
-  * Nguyên lý Dirichlet trong số học
-  * Nguyên lý Dirichlet và các bài toán bất đẳng thức
-  * Nguyên lý Dirichlet trong tổ hợp
-  * Nguyên lý Dirichlet trong hình học
+* Phương pháp chứng minh bằng nguyên lí cực hạn (phương pháp đại lượng cực biên), xét trường hợp cực hạn
+* Nguyên lí Dirichlet
+  * Nguyên lí Dirichlet trong số học
+  * Nguyên lí Dirichlet và các bài toán bất đẳng thức
+  * Nguyên lí Dirichlet trong tổ hợp
+  * Nguyên lí Dirichlet trong hình học
 * Phép chia hết, phép chia có dư, đồng dư thức
   * Số học và các hằng đẳng thức
     * Xét tính chẵn lẻ
@@ -191,13 +191,18 @@
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
-    * Phép biến đổi tương đương, phân tích đa thức thành nhân tử
+    * Biến đổi tương đương, phân tích đa thức thành nhân tử và thuần nhất hóa trong chứng minh bất đẳng thức
+    * Đưa bất đẳng thức về dạng bất đẳng thức một biến
+    * Chia trường hợp, chia để trị, sắp xếp thứ tự
+    * Phản chứng
     * Bất đẳng thức AM-GM
     * Bất đẳng thức Cauchy-Schwarz/CBS/CS/BCS
     * Đặt ẩn phụ trong chứng minh bất đẳng thức
     * Đối xứng hóa trong chứng minh bất đẳng thức
     * Hàm đơn điệu trong chứng minh bất đẳng thức
-    * Điều kiện có nghiệm của một phương trình bậc hai và định lí Viet đảo trong chứng minh bất đẳng thức
+    * Điều kiện có nghiệm của một phương trình bậc hai và định lí Viet đảo/điều kiện có nghiệm của hệ phương trình trong chứng minh bất đẳng thức
+      * Xét các biểu thức đối xứng cơ bản x + y và xy; x + y + z, xy + yz + zx, xyz
+    * Nguyên lí Dirichlet
   * Bất đẳng thức số học
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
