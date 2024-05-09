@@ -174,7 +174,7 @@
   * Quy nạp toán học trong số học
   * Quy nạp toán học trong các bài toán trò chơi
   * Quy nạp toán học trong bài toán đếm
-* Phương pháp chứng minh bằng nguyên lý cực hạn (phương pháp đại lượng cực biên)
+* Phương pháp chứng minh bằng nguyên lý cực hạn (phương pháp đại lượng cực biên), xét trường hợp cực hạn
 * Nguyên lý Dirichlet
   * Nguyên lý Dirichlet trong số học
   * Nguyên lý Dirichlet và các bài toán bất đẳng thức
@@ -182,6 +182,7 @@
   * Nguyên lý Dirichlet trong hình học
 * Phép chia hết, phép chia có dư, đồng dư thức
   * Số học và các hằng đẳng thức
+    * Xét tính chẵn lẻ
   * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
 * Ước chung lớn nhất, bội chung nhỏ nhất
 * Số nguyên tố, hợp số
@@ -190,12 +191,15 @@
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
+    * Phép biến đổi tương đương, phân tích đa thức thành nhân tử
     * Bất đẳng thức AM-GM
     * Bất đẳng thức Cauchy-Schwarz/CBS/CS/BCS
+    * Đặt ẩn phụ trong chứng minh bất đẳng thức
     * Đối xứng hóa trong chứng minh bất đẳng thức
     * Hàm đơn điệu trong chứng minh bất đẳng thức
+    * Điều kiện có nghiệm của một phương trình bậc hai và định lí Viet đảo trong chứng minh bất đẳng thức
   * Bất đẳng thức số học
-* Phương trình bậc hai một ẩn số và định lý Viet
+* Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
@@ -205,6 +209,12 @@
   * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
 * Hệ phương trình ba ẩn 
 * Hệ phương trình không mẫu mực
+  * Biến đổi đại số để tìm nghiệm
+  * Đặt ẩn phụ
+  * Phân tích đa thức thành nhân tử
+  * Phương pháp thế
+  * Sử dụng bất đẳng thức
+* Phương trình không mẫu mực
 * Bất phương trình và hệ bất phương trình
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
   * Graph (đồ thị)
@@ -217,7 +227,11 @@
     * Tỉ số lượng giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
+    * Đường thẳng Simson, đường thẳng Steiner
+    * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
+    * Định lí Ptolemy và các kết quả liên quan
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
+    * Đường thẳng Simson, đường thẳng Steiner, đường thẳng Euler
   * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
   * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
   * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
