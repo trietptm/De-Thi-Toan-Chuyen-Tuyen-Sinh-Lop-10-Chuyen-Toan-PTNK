@@ -222,6 +222,7 @@
     * Tỉ số lượng giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
+    * Phương tích
     * Đường thẳng Simson, đường thẳng Steiner
     * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
