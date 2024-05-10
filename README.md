@@ -230,6 +230,7 @@
     * Bổ đề bắn (shooting lemma)
     * Định lí Reim
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
+    * Phép vị tự, phép quay và phép vị tự quay
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
     * Đường thẳng Simson, đường thẳng Steiner, đường thẳng Euler
   * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
