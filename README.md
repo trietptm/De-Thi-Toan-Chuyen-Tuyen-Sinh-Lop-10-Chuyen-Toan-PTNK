@@ -225,6 +225,11 @@
     * Đường thẳng Simson, đường thẳng Steiner
     * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
+    * Định lí Miquel
+    * Bổ đề liên hệ tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
+    * Bổ đề bắn (shooting lemma)
+    * Định lí Reim
+    * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
     * Đường thẳng Simson, đường thẳng Steiner, đường thẳng Euler
   * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
