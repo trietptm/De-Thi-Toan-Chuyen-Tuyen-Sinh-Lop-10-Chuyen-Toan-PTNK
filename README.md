@@ -228,10 +228,11 @@
     * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
     * Định lí Miquel
+    * Định lí con bướm (butterfly theorem)
     * Bổ đề liên hệ điểm chính giữa cung với tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
     * Bổ đề bắn (shooting lemma)
     * Định lí Reim
-    * Định lí ERIQ (Equal Ratios In Quadrilateral)
+    * Định lí bốn điểm
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
   * Các phép biến hình:
     * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
