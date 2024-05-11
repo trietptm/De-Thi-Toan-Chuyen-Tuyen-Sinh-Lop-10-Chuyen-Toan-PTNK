@@ -215,6 +215,7 @@
   * Graph (đồ thị)
   * Cực trị tổ hợp/tối ưu tổ hợp
 * Cực trị hình học
+  * Tìm giá giá trị lớn nhất, giá trị nhỏ nhất của một đại lượng hình học
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
@@ -227,17 +228,21 @@
     * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
     * Định lí Miquel
-    * Bổ đề liên hệ tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
+    * Bổ đề liên hệ điểm chính giữa cung với tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
     * Bổ đề bắn (shooting lemma)
     * Định lí Reim
+    * Định lí ERIQ (Equal Ratios In Quadrilateral)
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
-    * Phép vị tự, phép quay và phép vị tự quay
+  * Các phép biến hình:
+    * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
+    * Phép vị tự, phép quay, phép vị tự quay và phép biến đổi đối song
   * Chứng minh các điểm thẳng hàng, các đường thẳng đồng quy
     * Đường thẳng Simson, đường thẳng Steiner, đường thẳng Euler
   * Chứng minh quan hệ song song, vuông góc giữa các đường thẳng
   * Chứng minh các điểm cùng thuộc một đường tròn (đồng viên)
   * Chứng minh một đường thẳng là tiếp tuyến của một đường tròn
   * Chứng minh hai góc bằng nhau, hai đoạn thẳng bằng nhau và các hệ thức hình học
+  * Tìm và chứng minh các điểm cố định mà một đường thẳng/đường tròn đi qua
 * Các bài toán hình học có nội dung tính toán
 * Hình học tổ hợp
   * Bài toán phủ hình
