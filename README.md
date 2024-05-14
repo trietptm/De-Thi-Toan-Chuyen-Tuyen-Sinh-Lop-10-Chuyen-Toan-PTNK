@@ -221,6 +221,7 @@
   * Hình học tam giác, tứ giác
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
+    * Định lí Ceva, định lí Menelaus, định lí Van Aubel
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
     * Phương tích
