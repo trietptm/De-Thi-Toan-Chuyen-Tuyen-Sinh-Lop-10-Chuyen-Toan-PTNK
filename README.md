@@ -219,6 +219,7 @@
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
+    * Tam giác đồng dạng
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
