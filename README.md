@@ -235,7 +235,8 @@
     * Định lí Reim
     * Định lí bốn điểm
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty)
-    * Đường đẳng giác, trục đối xứng và các kết quả liên quan
+    * Đường thẳng đẳng giác (cặp đường đẳng giác), trục đối xứng và các kết quả liên quan
+    * Đường đối trung và các kết quả liên quan
   * Các phép biến hình:
     * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
     * Phép vị tự, phép quay, phép vị tự quay và phép biến đổi đối song
