@@ -4,6 +4,7 @@
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
     * Biến đổi tương đương, phân tích đa thức thành nhân tử và thuần nhất hóa trong chứng minh bất đẳng thức
+      * Ghép cặp trong chứng minh bất đẳng thức
     * Đưa bất đẳng thức về dạng bất đẳng thức một biến
     * Chia trường hợp, chia để trị, sắp xếp thứ tự
     * Phản chứng
