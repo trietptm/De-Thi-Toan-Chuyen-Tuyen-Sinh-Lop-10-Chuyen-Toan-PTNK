@@ -190,12 +190,14 @@
 * Số chính phương, số lập phương, số lũy thừa
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
   * Phương pháp xuống thang
+* Dãy số nguyên
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức số học
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
+  * Định lí Viet đảo
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
@@ -214,6 +216,7 @@
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
   * Graph (đồ thị)
   * Cực trị tổ hợp/tối ưu tổ hợp
+  * Phương pháp lập bảng trong các bài toán suy luận tổ hợp
 * Cực trị hình học
   * Tìm giá giá trị lớn nhất, giá trị nhỏ nhất của một đại lượng hình học
 * Quỹ tích (tập hợp điểm)
