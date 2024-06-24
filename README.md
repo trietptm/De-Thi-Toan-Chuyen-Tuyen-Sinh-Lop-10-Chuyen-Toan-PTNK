@@ -4,9 +4,9 @@
 * Đáp án chính thức của trường PTNK: https://ptnk.edu.vn/tuyen-sinh-ptnk/de-thi-dap-an/
 
 ## 2024-2025:
-![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/8b00d6a5-a708-4b18-9a22-dc84d319a22b)
-
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/f0d1a027-5c2d-4af8-ab9e-bfd0309217d3)
+
+![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/8b00d6a5-a708-4b18-9a22-dc84d319a22b)
 
 ## 2023-2024:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/bc97db36-ed1a-4818-b3e3-0d54263063a4)
