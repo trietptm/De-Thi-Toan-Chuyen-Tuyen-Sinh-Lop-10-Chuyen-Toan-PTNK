@@ -195,9 +195,11 @@
 * Phương trình nghiệm nguyên và hệ phương trình nghiệm nguyên
   * Phương pháp xuống thang
 * Dãy số nguyên
+* Căn bậc hai, căn bậc ba và các bài toán số học
 * Đa thức và ứng dụng
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
+  * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
