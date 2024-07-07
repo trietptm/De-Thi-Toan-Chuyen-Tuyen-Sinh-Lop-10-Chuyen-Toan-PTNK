@@ -174,6 +174,9 @@
 ## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
 * Phương pháp phản chứng
   * Sử dụng phản ví dụ nhỏ nhất/lớn nhất
+  * Phương pháp phản chứng các bài toán đại số và bất đẳng thức
+  * Phương pháp phản chứng các bài toán số học
+  * Phương pháp phản chứng các bài toán suy luận tổ hợp, toán rời rạc, toán logic
 * Phương pháp chứng minh bằng phép quy nạp toán học (phương pháp/nguyên lí quy nạp toán học)
   * Quy nạp toán học trong đại số và bất đẳng thức
   * Quy nạp toán học trong số học
@@ -201,6 +204,7 @@
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
+  * Bất đẳng thức chứa dấu giá trị tuyệt đối
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
   * Định lí Viet đảo
