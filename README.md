@@ -200,21 +200,29 @@
 * Dãy số nguyên
 * Căn bậc hai, căn bậc ba và các bài toán số học
 * Đa thức và ứng dụng
+  * Các hằng đẳng thức đáng nhớ
+  * Phân tích đa thức thành nhân tử
+  * Phép chia đa thức
+  * Rút gọn phân thức, biến đổi các biểu thức hữu tỉ/phân thức đại số
+  * Tỉ lệ thức, dãy tỉ số bằng nhau
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
   * Bất đẳng thức chứa dấu giá trị tuyệt đối
+  * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
   * Định lí Viet đảo
+  * Phương trình quy về phương trình bậc hai
 * Hệ phương trình hai ẩn mẫu mực
   * Hệ phương trình bậc nhất hai ẩn
   * Hệ phương trình hai ẩn đối xứng loại 1
   * Hệ phương trình hai ẩn đối xứng loại 2
   * Hệ phương trình đồng bậc/đẳng cấp. 
   * Hệ phương trình bậc nhất hai ẩn và bậc hai hai ẩn
-* Hệ phương trình ba ẩn 
+* Hệ phương trình ba ẩn
+* Phương trình vô tỉ
 * Hệ phương trình không mẫu mực
   * Biến đổi đại số để tìm nghiệm
   * Đặt ẩn phụ
