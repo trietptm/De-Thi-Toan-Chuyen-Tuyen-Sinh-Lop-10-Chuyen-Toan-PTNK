@@ -229,12 +229,31 @@
   * Phương pháp lập bảng trong các bài toán suy luận tổ hợp
 * Cực trị hình học
   * Tìm giá giá trị lớn nhất, giá trị nhỏ nhất của một đại lượng hình học
+  * Quan hệ giữa góc và cạnh trong tam giác, quan hệ giữa đường vuông góc và đường xiên, quan hệ giữa đường xiên và và hình chiếu
+  * Quan hệ giữa ba cạnh của tam giác
 * Quỹ tích (tập hợp điểm)
 * Định lý hình học và các phương pháp chứng minh
   * Hình học tam giác, tứ giác
-    * Tam giác đồng dạng
+    * Tổng ba góc của một tam giác
+    * Hai tam giác bằng nhau (các trường hợp bằng nhau của tam giác)
+    * Tam giác cân, tam giác đều
+    * Tam giác đồng dạng (các trường hợp đồng dạng của tam giác)
+      * Tỉ số hai đường cao, tỉ số diện tích của hai tam giác đồng dạng
+    * Định lý Thales
+    * Tính chất đường phân giác của tam giác
     * Hệ thức lượng trong tam giác vuông
     * Tỉ số lượng giác
+    * Quan hệ giữa các yếu tố trong tam giác, các đường đồng quy trong tam giác
+      * Tính chất ba đường trung tuyến của tam giác, ba đường cao của tam giác, ba đường trung trực của tam giác, ba đường phân giác của tam giác
+    * Tứ giác
+      * Hình thang, hình thang cân
+      * Hình bình hành
+      * Hình chữ nhật
+      * Hình thoi
+      * Hình vuông
+    * Diện tích đa giác
+      * Diện tích tam giác, tứ giác
+      * Bất đẳng thức diện tích
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
     * Phương tích
