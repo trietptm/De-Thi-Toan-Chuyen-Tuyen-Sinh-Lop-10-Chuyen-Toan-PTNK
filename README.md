@@ -190,6 +190,7 @@
   * Nguyên lí Dirichlet trong hình học
 * Phép chia hết, phép chia có dư, đồng dư thức
   * Số học và các hằng đẳng thức
+    * Các tính chất chia hết
     * Xét tính chẵn lẻ
   * Định lý nhỏ Fermat, định lý Euler, định lý Wilson
 * Ước chung lớn nhất, bội chung nhỏ nhất
@@ -205,12 +206,14 @@
   * Phép chia đa thức
   * Rút gọn phân thức, biến đổi các biểu thức hữu tỉ/phân thức đại số
   * Tỉ lệ thức, dãy tỉ số bằng nhau
+  * Chứng minh các đẳng thức
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức chứa căn thức
   * Bất đẳng thức số học
   * Bất đẳng thức chứa dấu giá trị tuyệt đối
-  * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức
+  * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức (cực trị đại số)
+  * Bất đẳng thức và ứng dụng trong giải phương trình/hệ phương trình không mẫu mực
 * Phương trình bậc hai một ẩn số và định lí Viet
   * Điều kiện có nghiệm của một phương trình bậc hai
   * Định lí Viet đảo
@@ -232,6 +235,9 @@
 * Phương trình không mẫu mực
 * Bất phương trình và hệ bất phương trình
 * Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
+  * Nguyên lí Dirichlet
+  * Nguyên lí cực hạn
+  * Nguyên lí bù trừ
   * Graph (đồ thị)
   * Cực trị tổ hợp/tối ưu tổ hợp
   * Phương pháp lập bảng trong các bài toán suy luận tổ hợp
