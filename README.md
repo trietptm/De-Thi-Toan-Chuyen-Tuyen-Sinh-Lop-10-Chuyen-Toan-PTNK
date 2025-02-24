@@ -234,7 +234,7 @@
   * Sử dụng bất đẳng thức
 * Phương trình không mẫu mực
 * Bất phương trình và hệ bất phương trình
-* Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, trò chơi và các bất biến
+* Chuyên đề toán suy luận tổ hợp, toán rời rạc, toán logic, các bài toán đếm, trò chơi và các bất biến
   * Nguyên lí Dirichlet
   * Nguyên lí cực hạn
   * Nguyên lí bù trừ
