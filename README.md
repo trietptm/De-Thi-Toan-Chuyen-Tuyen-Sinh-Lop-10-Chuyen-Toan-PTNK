@@ -32,6 +32,8 @@
 
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/7b9da419-0f27-4dde-bb58-071ede7b7b95)
 
+![image](https://github.com/user-attachments/assets/ed00fa93-3026-4c99-a3b8-61f9a266ff36)
+
 ## 2019-2020:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/fde06919-16cb-4f76-9cd1-21943ba10767)
 
