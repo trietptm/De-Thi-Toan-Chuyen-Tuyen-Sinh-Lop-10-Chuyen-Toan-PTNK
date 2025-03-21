@@ -1,4 +1,14 @@
 
+## 2021 LẦN 1:
+![image](https://github.com/user-attachments/assets/d61ae0e1-752e-4a79-9f6c-0e9aa5106c9b)
+![image](https://github.com/user-attachments/assets/6a3c68b9-9316-4870-8bad-244919397847)
+
+![image](https://github.com/user-attachments/assets/6a8c1fce-329c-4aa6-9777-6f6357d3fa23)
+![image](https://github.com/user-attachments/assets/730f6d68-dc62-4974-bfaa-f75ac9c10f31)
+![image](https://github.com/user-attachments/assets/24e7c84d-9dac-4117-8b8e-ace3ff29a97a)
+![image](https://github.com/user-attachments/assets/c264724c-bd1d-4b2f-85f3-fa2114d20a1e)
+![image](https://github.com/user-attachments/assets/05e8bab9-1bb1-4c63-ac6a-e2f67c57e10c)
+
 ## 2019 LẦN 2:
 ![image](https://github.com/user-attachments/assets/87e0ae2e-f499-4cc9-82b5-6ce77a1196bc)
 ![image](https://github.com/user-attachments/assets/3a6d1ee1-b0a5-44e8-a433-a629c4e4786d)
