@@ -1,6 +1,10 @@
 
 # ĐỀ THI THỬ TOÁN CHUYÊN PTNK
 
+## 2019 LẦN 2:
+![image](https://github.com/user-attachments/assets/87e0ae2e-f499-4cc9-82b5-6ce77a1196bc)
+![image](https://github.com/user-attachments/assets/3a6d1ee1-b0a5-44e8-a433-a629c4e4786d)
+
 ## 2019 LẦN 1:
 ![image](https://github.com/user-attachments/assets/cef8e8a0-21f4-4be7-b5b6-7aa5a20cb471)
 ![image](https://github.com/user-attachments/assets/7b823da8-4765-44ac-ba59-f7490ed3b1b4)
