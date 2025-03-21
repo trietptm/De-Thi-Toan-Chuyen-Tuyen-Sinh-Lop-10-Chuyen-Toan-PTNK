@@ -1,4 +1,13 @@
 
+## 2019 LẦN 2:
+![image](https://github.com/user-attachments/assets/87e0ae2e-f499-4cc9-82b5-6ce77a1196bc)
+![image](https://github.com/user-attachments/assets/3a6d1ee1-b0a5-44e8-a433-a629c4e4786d)
+
+![image](https://github.com/user-attachments/assets/67b02df8-f727-4929-aff0-c329e6258adf)
+![image](https://github.com/user-attachments/assets/4facbcbd-9165-4e2d-bc7b-0a0e2a32b9a8)
+![image](https://github.com/user-attachments/assets/0896a158-1b37-4a59-9669-9c0cc6ef1cdf)
+![image](https://github.com/user-attachments/assets/fba34071-b53d-48cf-8158-f831991d1609)
+
 ## 2019 LẦN 1:
 ![image](https://github.com/user-attachments/assets/cef8e8a0-21f4-4be7-b5b6-7aa5a20cb471)
 ![image](https://github.com/user-attachments/assets/7b823da8-4765-44ac-ba59-f7490ed3b1b4)
