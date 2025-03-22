@@ -1,6 +1,9 @@
 
 # ĐỀ THI THỬ TOÁN CHUYÊN PTNK
 
+## 2023 LẦN 1:
+![image](https://github.com/user-attachments/assets/a21d82e7-aabb-468f-92bd-fe444547650d)
+
 ## 2022 LẦN 2:
 ![image](https://github.com/user-attachments/assets/b7f6c52c-40ba-408f-a059-6e9ffafc7ed3)
 
