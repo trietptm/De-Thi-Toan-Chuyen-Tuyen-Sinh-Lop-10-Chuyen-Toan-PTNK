@@ -1,6 +1,9 @@
 
 # ĐỀ THI THỬ TOÁN CHUYÊN PTNK
 
+## 2024 LẦN 2:
+![image](https://github.com/user-attachments/assets/f8411d71-b01c-4196-858c-58eb3f2216fc)
+
 ## 2024 LẦN 1:
 ![image](https://github.com/user-attachments/assets/6763faec-64d7-4c81-bbb2-77383be843e3)
 
