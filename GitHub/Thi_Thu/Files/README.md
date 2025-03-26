@@ -2,6 +2,11 @@
 ## 2024 LẦN 1:
 ![image](https://github.com/user-attachments/assets/6763faec-64d7-4c81-bbb2-77383be843e3)
 
+![image](https://github.com/user-attachments/assets/d70cf3a0-e01b-4d35-81d4-950c45c0763e)
+![image](https://github.com/user-attachments/assets/c18f64f9-643f-4780-a41f-1b665e5487f4)
+![image](https://github.com/user-attachments/assets/2c54654b-fc74-47fe-8183-ef4209b60615)
+![image](https://github.com/user-attachments/assets/57167d66-38e9-44d7-a26a-1d158222ee7e)
+
 ## 2023 LẦN 2:
 ![image](https://github.com/user-attachments/assets/89267766-f97f-4192-83e6-9589ff364dd9)
 ![image](https://github.com/user-attachments/assets/50020ec1-9c5b-4b80-8237-81749f6506c4)
