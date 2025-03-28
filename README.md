@@ -187,6 +187,9 @@
 ## 1993-1994:
 ![image](https://user-images.githubusercontent.com/526959/169000957-1fa98d41-cc11-44f4-9c2d-940d74adcca5.png)
 
+## CẤU TRÚC ĐỀ THI TUYỂN SINH LỚP 10:
+
+
 ## CÁC CHUYÊN ĐỀ ÔN THI CHUYÊN TOÁN PTNK:
 * Phương pháp phản chứng
   * Sử dụng phản ví dụ nhỏ nhất/lớn nhất
