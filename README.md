@@ -272,6 +272,7 @@
     * Tam giác cân, tam giác đều
     * Tam giác đồng dạng (các trường hợp đồng dạng của tam giác)
       * Tỉ số hai đường cao, tỉ số diện tích của hai tam giác đồng dạng
+      * Cặp tam giác đồng dạng và các đường/điểm tương ứng tạo các cặp tam giác đồng dạng mới (cặp tam giác tương ứng đồng dạng/đồng dạng tương ứng)
     * Định lý Thales
     * Tính chất đường phân giác của tam giác
     * Hệ thức lượng trong tam giác vuông
