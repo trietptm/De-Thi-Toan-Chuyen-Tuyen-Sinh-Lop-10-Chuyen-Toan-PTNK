@@ -229,6 +229,7 @@
 * Bất đẳng thức và ứng dụng trong đại số, số học
   * Các phương pháp chứng minh bất đẳng thức
   * Bất đẳng thức chứa căn thức
+  * Phương trình bậc hai, tam thức bậc hai, đa thức bậc 4 và bài toán chứng minh bất đẳng thức
   * Bất đẳng thức số học
   * Bất đẳng thức chứa dấu giá trị tuyệt đối
   * Tìm giá trị lớn nhất, giá trị nhỏ nhất của biểu thức (cực trị đại số)
