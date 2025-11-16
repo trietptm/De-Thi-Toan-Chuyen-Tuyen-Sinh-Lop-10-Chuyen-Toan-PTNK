@@ -261,6 +261,7 @@
   * Nguyên lí Dirichlet
   * Nguyên lí cực hạn
   * Nguyên lí bù trừ
+  * Tính chất bất biến
   * Graph (đồ thị)
   * Cực trị tổ hợp/tối ưu tổ hợp
   * Phương pháp lập bảng trong các bài toán suy luận tổ hợp
@@ -306,7 +307,7 @@
     * Định lí bốn điểm
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty) và các kết quả liên quan
     * Đường thẳng đẳng giác (cặp đường đẳng giác), trục đối xứng và các kết quả liên quan
-    * Tứ giác điều hòa, đường đối trung và các kết quả liên quan
+    * Tứ giác điều hòa, đường đối trung, điểm Dumpty, đường tròn Apollonius và các kết quả liên quan
   * Các phép biến hình:
     * Các phép dời hình: phép tịnh tiến, phép quay và phép đối xứng trục
     * Phép vị tự, phép quay, phép vị tự quay và phép biến đổi đối song
