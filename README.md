@@ -3,6 +3,9 @@
 * Liên hệ học thử các lớp toán online và offline: 0962797946 (FaceTime, Zalo,...), [Facebook](https://www.facebook.com/trietptm), gần ngã ba Hồ Văn Huê - Nguyễn Kiệm, Phú Nhuận: https://goo.gl/maps/CghSicAvrM6nnYJ8A hoặc đăng ký học lớp toán chuyên sáng chủ nhật với thầy Triết ở trung tâm [PTNK HUB](https://www.facebook.com/PTNKHUB) tại trường Phổ thông Năng khiếu cơ sở quận 5.
 * Đáp án chính thức của trường PTNK: https://ptnk.edu.vn/tuyen-sinh-ptnk/de-thi-dap-an/
 
+## 2025-2026:
+![image](https://github.com/user-attachments/assets/3bbe0389-d776-4b6d-9756-26b6b4effdd7)
+
 ## 2024-2025:
 ![image](https://github.com/trietptm/De-Thi-Toan-Chuyen-Tuyen-Sinh-Lop-10-Chuyen-Toan-PTNK/assets/526959/f0d1a027-5c2d-4af8-ab9e-bfd0309217d3)
 
