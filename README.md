@@ -285,6 +285,8 @@
     * Tỉ số lượng giác
     * Quan hệ giữa các yếu tố trong tam giác, các đường đồng quy trong tam giác
       * Tính chất ba đường trung tuyến của tam giác, ba đường cao của tam giác, ba đường trung trực của tam giác, ba đường phân giác của tam giác
+        * Trọng tâm, trực tâm, tâm đường tròn ngoại tiếp, tâm đường tròn nội tiếp, tâm đường tròn bàng tiếp của tam giác và các kết quả liên quan
+      * Bất đẳng thức tam giác
     * Tứ giác
       * Hình thang, hình thang cân
       * Hình bình hành
@@ -297,12 +299,14 @@
   * Đường tròn, góc với đường tròn, tứ giác nội tiếp và hệ thức lượng trong đường tròn (phương tích,...)
     * Tiếp tuyến và đường tròn
     * Phương tích
+    * Định lí sine, định lí cosine
     * Đường thẳng Simson, đường thẳng Steiner
-    * Đường thẳng Euler, đường tròn Euler và các kết quả liên quan
+    * Đường thẳng Euler, đường tròn Euler/đường tròn 9 điểm và các kết quả liên quan
     * Định lí Ptolemy và các kết quả liên quan
     * Định lí Miquel
     * Định lí con bướm (butterfly theorem)
-    * Bổ đề liên hệ điểm chính giữa cung với tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
+    * Đường tròn ngoại tiếp, đường tròn nội tiếp, đường tròn bàng tiếp tam giác và các kết quả liên quan
+      * Bổ đề liên hệ điểm chính giữa cung với tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp tam giác
     * Bổ đề bắn (shooting lemma)
     * Định lí Reim
     * Định lí bốn điểm
