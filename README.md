@@ -311,6 +311,7 @@
     * Định lí Reim
     * Định lí bốn điểm
     * Điểm HM/Humpty và điểm Dumpty (ví dụ: điểm A-Humpty / điểm A-HM, điểm A-Dumpty) và các kết quả liên quan
+    * Định lí Brocard
     * Đường thẳng đẳng giác (cặp đường đẳng giác), trục đối xứng và các kết quả liên quan
     * Tứ giác điều hòa, đường đối trung, điểm Dumpty, đường tròn Apollonius và các kết quả liên quan
   * Các phép biến hình:
